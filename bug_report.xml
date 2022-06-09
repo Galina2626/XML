@@ -1,1 +1,14 @@
-
+<?xml version=1.0?>
+<bug_report>
+  <Summary>Null</Summary>
+    <Version>Null</Version>
+      <Severity>Null</Severity>
+        <Priority>Null</Priority>
+          <Status>Null</Status>
+            <Environment>Null</Environment>
+              <Steps to Reproduce>Null</Steps to Reproduce>
+                <Actual result>Null</Actual result>
+                  <Expected Result>Null</Expected Result>
+                    <Attachment>Null</Attachment>
+                      </bug_report>
+                      
